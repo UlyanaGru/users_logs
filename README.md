@@ -22,7 +22,7 @@
 Ограничение памяти  64 МБ
 
 [Тут решение на Python](https://github.com/UlyanaGru/users_logs/blob/master/users_logs.py)\
-[Тут решение на C++]()
+[Тут решение на C++](https://github.com/UlyanaGru/users_logs/blob/master/users_logs.cxx)
 
 #### Немного информативных ссылок
 
